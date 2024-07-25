@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+header
+{
+    background-color: black;
+    padding: 30px;
+
+}
+header li
+{
+    display: inline;
+    padding-left: 45px;
+
+}
+header li a
+{
+    color:bisque;
+    text-decoration: none;
+    padding: 13px;
+    transition: -3s ease;
+}
+header li a:hover
+{
+    color:blue;
+    text-decoration: none;
+    padding: 13px;
+}
